@@ -1,2 +1,2 @@
 # HDMVocal
-The whole code of HDM Vocal in Python.
+The source code of HDM Vocal and figure generalization scripts in Python 3.10. 
